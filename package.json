@@ -1,0 +1,10 @@
+{
+  "name": "utilities",
+  "version": "1.0.0",
+  "description": "Random utilities",
+  "author": "Patrick McGrath",
+  "license": "MIT",
+  "dependencies": {
+    "serverless-dynamodb-local": "^0.2.39"
+  }
+}

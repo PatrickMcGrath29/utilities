@@ -19,6 +19,9 @@ var/
 
 # Serverless directories
 .serverless
+.dynamodb
+node_modules
+package-lock.json
 
 # PyCharm
 .idea
